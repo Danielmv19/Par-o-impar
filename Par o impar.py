@@ -1,4 +1,4 @@
-print('Piensa en un numero entre')
+print('Piensa en un numero')
 numero = int(input('Escribe el numero: '))
 if numero % 2 == 0:
     print('¡Es un numero par!')
